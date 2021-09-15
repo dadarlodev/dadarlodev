@@ -1,5 +1,7 @@
 <h1>Hello Friend</h1>
 
+My name is Jordan and I'm a Software Developer, based in South Yorkshire.
+
 <a href="https://github.com/darlodev/dalodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
