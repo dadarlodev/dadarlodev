@@ -2,8 +2,8 @@
 
 My name is Jordan and I'm a Software Developer and Coding Instructor, based in South Yorkshire.
 
-- Currently working at @wearecodenation
-- Exploring the world of Game Development
+- Currently working at Code Nation
+- Exploring the world of Software & Game Development
 - jordan@darlodev.com
 
 <a href="https://github.com/darlodev/dalodev">
