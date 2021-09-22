@@ -3,7 +3,7 @@
 My name is Jordan and I'm a Software Developer and Coding Instructor, based in South Yorkshire.
 
 - 🕹 Exploring the world of Software & Game Development
-- 🖥 Instructor at Code Nation
+- 🖥 Instructor at Code Nation and Qualified Teacher
 - ✉️ jordan@darlodev.com
 
 <a href="https://github.com/darlodev/dalodev">
