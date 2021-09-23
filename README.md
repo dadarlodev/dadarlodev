@@ -1,4 +1,4 @@
-<h1>Hello Friend</h1>
+<h1>Welcome</h1>
 
 My name is Jordan and I'm a Software Developer and Coding Instructor, based in South Yorkshire.
 <br>
