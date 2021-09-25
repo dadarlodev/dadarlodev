@@ -1,6 +1,4 @@
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
-
-<h1>Welcome</h1>
+[![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github_header.png "Header")](https://darlodev.com/)
 
 My name is Jordan and I'm a Software Developer and Coding Instructor, based in South Yorkshire.
 <br>
