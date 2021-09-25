@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github_header.png "Header")](https://darlodev.com/)
+[![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github_header.png "Header")]
 
 My name is Jordan and I'm a Software Developer and Coding Instructor, based in South Yorkshire.
 <br>
