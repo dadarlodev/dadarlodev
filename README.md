@@ -1,12 +1,26 @@
-[![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github_header.png "Header")]
+# [![jordan darlington header](https://raw.githubusercontent.com/darlodev/darlodev/main/github_banner.png)](https://darlodev.com)
 
-My name is Jordan and I'm a Software Developer and Coding Instructor, based in South Yorkshire.
-<br>
-<br>
-- 🕹 Exploring the world of Software & Game Development
-- 🖥 Instructor at Code Nation and Qualified Teacher
-- ✉️ jordan@darlodev.com
-<br>
+My name is Jordan Darlington and I'm a Software Developer from the UK. I currently work at Code Nation, based in Manchester.
+
+## ⚒️ Technology & Tools
+
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=3ab795)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=csharp&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3ab795)
+
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Tools-Unreal_Engine-informational?style=flat&logo=unrealengine&logoColor=white&color=3ab795)
+
+## ⚙️ GitHub Stats
+
 <a href="https://github.com/darlodev/darlodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
