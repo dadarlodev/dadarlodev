@@ -5,18 +5,17 @@ My name is Jordan and I'm a Software Developer from the UK. I currently work at 
 ## Technology & Tools
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=3ab795)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3ab795)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3ab795)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=3ab795)
+
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3ab795)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3ab795)
-![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=csharp&logoColor=white&color=3ab795)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=3ab795)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=3ab795)
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3ab795)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3ab795)
-![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=3ab795)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3ab795)
 
 ## GitHub Stats
 
