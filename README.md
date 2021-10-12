@@ -1,8 +1,7 @@
-# [![jordan darlington header](https://raw.githubusercontent.com/darlodev/darlodev/main/github_banner.png)](https://darlodev.com)
 
-My name is Jordan Darlington and I'm a Software Developer from the UK. I currently work at Code Nation, based in Manchester.
+My name is Jordan and I'm a Software Developer from the UK. I currently work at Code Nation, based in Manchester.
 
-## ⚒️ Technology & Tools
+## Technology & Tools
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=3ab795)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3ab795)
@@ -18,7 +17,7 @@ My name is Jordan Darlington and I'm a Software Developer from the UK. I current
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3ab795)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=3ab795)
 
-## ⚙️ GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/darlodev/darlodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
