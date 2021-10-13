@@ -20,10 +20,10 @@ My name is Jordan and I'm a Software Developer from the UK. I currently work at 
 ## GitHub Stats
 
 <a href="https://github.com/darlodev/darlodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linguadev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/darlodev/darlodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlodev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3ab795&bg_color=1d1f21" alt="Jordan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=linguadev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3ab795&bg_color=1d1f21" alt="Jordan's GitHub Stats" />
 </a>
 
 <!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
