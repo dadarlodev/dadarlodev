@@ -16,14 +16,9 @@ I work primarily with Python but also have an interest in C# and JavaScript.
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Engine-Godot-informational?style=flat&logo=godotengine&logoColor=white&color=ffffff)
 
-## GitHub Stats
-
+<br>
 <a href="https://github.com/pixellapse/pixellapse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixellapse&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
-</a>
-
-<a href="https://github.com/pixellapse/pixellapse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pixellapse&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=1d1f21" alt="Jordan's GitHub Stats" />
 </a>
 
 <!---
