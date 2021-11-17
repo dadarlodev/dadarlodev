@@ -10,10 +10,12 @@ I work primarily with Python but also have an interest in C# and JavaScript.
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=ffffff)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=ffffff)
 
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Engine-UE4-informational?style=flat&logo=unrealengine&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Engine-Godot-informational?style=flat&logo=godotengine&logoColor=white&color=ffffff)
 
 <br>
