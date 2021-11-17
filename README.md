@@ -1,6 +1,8 @@
 ## Welcome
 
-My name's Jordan and I'm an Instructor and Developer from the UK. I currently work at Code Nation, based in Manchester.
+My name's Jordan and I'm a Coding Instructor from the UK, currently working at Code Nation (Manchester).
+<br>
+I work primarily with Python but also have an interest in C# and JavaScript.
 
 ## Technology & Tools
 
