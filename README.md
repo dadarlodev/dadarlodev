@@ -17,8 +17,9 @@ I work primarily with Python but also have an interest in C# and JavaScript.
 ![](https://img.shields.io/badge/Engine-Godot-informational?style=flat&logo=godotengine&logoColor=white&color=ffffff)
 
 <br>
+
 <a href="https://github.com/pixellapse/pixellapse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixellapse&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixellapse&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" />
 </a>
 
 <!---
