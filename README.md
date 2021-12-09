@@ -6,10 +6,10 @@ I work primarily with Python but also have an interest in JavaScript.
 <br>
 ## Technology & Tools
 
-![](https://img.shields.io/badge/:-Python-informational?style=flat&logo=python&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/:-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/:-Dart-informational?style=flat&logo=dart&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/:-Go-informational?style=flat&logo=go&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=dart&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=white&color=ffffff)
 
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=ffffff)
 
