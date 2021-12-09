@@ -2,18 +2,14 @@
 
 My name's Jordan and I'm a Coding Instructor from the UK, currently working at Code Nation (Manchester).
 <br>
-I work primarily with Python but also have an interest in C# and JavaScript.
+I work primarily with Python but also have an interest in JavaScript.
 <br>
 ## Technology & Tools
 
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=ffffff)
-
 ![](https://img.shields.io/badge/:-Python-informational?style=flat&logo=python&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/:-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff)
-
-![](https://img.shields.io/badge/:-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/:-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/:-Dart-informational?style=flat&logo=dart&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/:-Golang-informational?style=flat&logo=golang&logoColor=white&color=ffffff)
 
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=ffffff)
 
