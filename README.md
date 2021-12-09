@@ -3,11 +3,6 @@
 My name's Jordan and I'm a Coding Instructor from the UK, currently working at Code Nation (Manchester).
 <br>
 I work primarily with Python but also have an interest in JavaScript.
-<br>
-## Technology & Tools
-
-![](https://img.shields.io/badge/:-Python-informational?style=flat&logo=python&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/:-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff)
 
 <br>
 
