@@ -7,7 +7,7 @@ I work primarily with Python but also have an interest in JavaScript.
 <br>
 
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&logoColor=black&color=ffffff)
-![](https://img.shields.io/badge/-LinuxMint-informational?style=flat&logo=linuxmint&logoColor=black&color=ffffff)
+![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=black&color=ffffff)
 
 ![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=black&color=ffffff)
 ![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&logoColor=black&color=ffffff)
