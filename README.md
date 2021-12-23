@@ -8,8 +8,8 @@ I work primarily with Python but also have an interest in JavaScript.
 
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&logoColor=black&color=ffffff)
 
-![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=black&color=ffffff)
 ![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&logoColor=black&color=ffffff)
+![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=black&color=ffffff)
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=black&color=ffffff)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=ffffff)
