@@ -1,8 +1,12 @@
-## Welcome
+# Welcome
 
 My name's Jordan and I'm a Coding Instructor from the UK, currently working at Code Nation (Manchester).
 <br>
 I work primarily with Python but also have an interest in JavaScript.
+
+<br>
+
+## Technology & Tools
 
 <br>
 
