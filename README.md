@@ -2,8 +2,7 @@
 
 My name's Jordan and I'm a Coding Instructor from the UK, currently working at Code Nation (Manchester).
 <br>
-I work primarily with Python but also have an interest in JavaScript.
-
+I work primarily with Python but also teach and work with JavaScript.
 <br>
 
 ## Technology & Tools
