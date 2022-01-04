@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=bootstrap&color=1d252c)
 ![](https://img.shields.io/badge/-Node-informational?style=flat&logo=node.js&color=1d252c)
 ![](https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&color=1d252c)
+![](https://img.shields.io/badge/-django-informational?style=flat&logo=django&color=1d252c)
 
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&color=1d252c)
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&color=1d252c)
