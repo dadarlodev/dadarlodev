@@ -6,6 +6,7 @@ My name's Jordan and I'm a Coding Instructor from the UK, currently working for 
 ---
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&color=1d252c)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&color=1d252c)
+![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&color=1d252c)
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&color=1d252c)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&color=1d252c)
@@ -16,6 +17,7 @@ My name's Jordan and I'm a Coding Instructor from the UK, currently working for 
 ![](https://img.shields.io/badge/-django-informational?style=flat&logo=django&color=1d252c)
 
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&color=1d252c)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&color=1d252c)
 ![](https://img.shields.io/badge/-Raspberry_Pi-informational?style=flat&logo=raspberrypi&color=1d252c)
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=city_lights&layout=compact&hide=html,css&langs_count=5)](https://github.com/darlodev/github-readme-stats)
