@@ -2,8 +2,6 @@
 ![](https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=ffffff)
 
 ![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-banner.png "Header")
-
-My name's Jordan and I'm a Coding Instructor from the UK, currently working for Code Nation.
 ---
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&color=1d252c)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&color=1d252c)
