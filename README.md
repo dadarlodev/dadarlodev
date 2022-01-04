@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-banner.png "Header")
 
-![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=black&color=ffffff)
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=black&color=ffffff)](https://www.linkedin.com/in/darlodev/)
 
 My name's Jordan and I'm a Coding Instructor from the UK, currently working at Code Nation (Manchester).
 <br>
