@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=ffffff)
 
 ---
-
-![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-banner.png "Header")
+<!-- 
+![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-banner.png "Header") -->
 
 ---
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&color=1d252c)
