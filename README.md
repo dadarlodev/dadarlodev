@@ -2,17 +2,6 @@
 ![](https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=ffffff)
 
 ![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-banner.png "Header")
-<table>
-  <tr>
-    <th scope="row">Name</th><th>Jordan Darlington</th>
-  </tr>
-  <tr>
-    <th scope="row">Location</th><th>United Kingdom</th>
-  </tr>
-  <tr>
-    <th scope="row">Profession</th><th>Full Stack Developer</th>
-  </tr>
-</table>
 
 ---
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&color=1d252c)
