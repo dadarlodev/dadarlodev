@@ -1,6 +1,8 @@
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=black&color=ffffff)](https://www.linkedin.com/in/darlodev/)
 ![](https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=ffffff)
 
+---
+
 ![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-banner.png "Header")
 
 ---
@@ -20,7 +22,17 @@
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&color=1d252c)
 ![](https://img.shields.io/badge/-Raspberry_Pi-informational?style=flat&logo=raspberrypi&color=1d252c)
 
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=city_lights&layout=compact&hide=html,css&langs_count=5)](https://github.com/darlodev/github-readme-stats)
-
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darlodev&theme=city_lights&show_icons=true)
+<a href="https://github.com/darlodev/darlodev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=ayu-mirage&layout=compact&hide=html,css&langs_count=5)](https://github.com/darlodev/github-readme-stats" />
+</a>
+<a href="https://github.com/darlodev/darlodev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlodev&theme=ayu-mirage&show_icons=true" />
+</a>
+<a href="https://github.com/darlodev/darlodev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=ayu-mirage&repo=darlodev" />
+</a>
+<a href="https://github.com/darlodev/darlodev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=ayu-mirage&repo=darlodev" />
+</a>
