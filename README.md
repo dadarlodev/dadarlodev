@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&color=1f2430)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&color=1f2430)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&color=1f2430)
+![](https://img.shields.io/badge/-Make-informational?style=flat&logo=cmake&color=1f2430)
 ![](https://img.shields.io/badge/-Vue-informational?style=flat&logo=vue.js&color=1f2430)
 ![](https://img.shields.io/badge/-Svelte-informational?style=flat&logo=svelte&color=1f2430)
 ![](https://img.shields.io/badge/-Node-informational?style=flat&logo=node.js&color=1f2430)
