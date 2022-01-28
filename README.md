@@ -1,9 +1,10 @@
-[![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=black&color=ffffff)](https://www.linkedin.com/in/darlodev/)
-![](https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=ffffff)
 
 ---
 
 ![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-banner-new.png "Header")
+
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=black&color=ffffff)](https://www.linkedin.com/in/darlodev/)
+![](https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=ffffff)
 
 ---
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&color=1d252c)
@@ -36,3 +37,5 @@
 <a href="https://github.com/darlodev/darlodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=ayu-mirage&repo=darlodev" />
 </a>
+
+---
