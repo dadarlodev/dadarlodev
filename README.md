@@ -25,7 +25,7 @@
 ---
 
 <a href="https://github.com/darlodev/darlodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=ayu-mirage&layout=compact&hide=html,css&langs_count=5)](https://github.com/darlodev/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=ayu-mirage&layout=compact&hide=html,css&langs_count=6)](https://github.com/darlodev/github-readme-stats" />
 </a>
 <a href="https://github.com/darlodev/darlodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlodev&theme=ayu-mirage&show_icons=true" />
