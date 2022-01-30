@@ -9,6 +9,8 @@
 ---
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&color=1f2430)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&color=1f2430)
+![](https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visual-studio-code&color=1f2430)
+![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&color=1f2430)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&color=1f2430)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&color=1f2430)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&color=1f2430)
@@ -18,6 +20,7 @@
 ![](https://img.shields.io/badge/-Node-informational?style=flat&logo=node.js&color=1f2430)
 ![](https://img.shields.io/badge/-Next-informational?style=flat&logo=next.js&color=1f2430)
 ![](https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&color=1f2430)
+![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&color=1f2430)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&color=1f2430)
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&color=1f2430)
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&color=1f2430)
