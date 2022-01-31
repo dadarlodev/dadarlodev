@@ -4,7 +4,6 @@
 ![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-banner.png "Header")
 
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=black&color=ffffff)](https://www.linkedin.com/in/darlodev/)
-![](https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=ffffff)
 
 ---
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&color=1f2430)
