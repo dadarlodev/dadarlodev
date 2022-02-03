@@ -35,8 +35,8 @@
 <a href="https://github.com/darlodev/mfl-gateway">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=ayu-mirage&repo=mfl-gateway" />
 </a>
-<a href="https://github.com/darlodev/darlodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=ayu-mirage&repo=darlodev" />
+<a href="https://github.com/darlodev/flask-cutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=ayu-mirage&repo=flask-cutter" />
 </a>
 
 ---
