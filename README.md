@@ -1,10 +1,6 @@
 
----
-
-![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-logo-banner.png "Header")
 
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&&color=1f2430)](https://www.linkedin.com/in/darlodev/)
-
 ---
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&color=1f2430)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&color=1f2430)
