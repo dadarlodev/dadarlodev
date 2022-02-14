@@ -1,7 +1,7 @@
 
 ---
 
-![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-banner.png "Header")
+![Header](https://raw.githubusercontent.com/darlodev/darlodev/master/github-logo-banner.png "Header")
 
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&&color=1f2430)](https://www.linkedin.com/in/darlodev/)
 
