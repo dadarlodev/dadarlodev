@@ -1,5 +1,7 @@
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&&color=1f2430)](https://www.linkedin.com/in/darlodev/)
+
 ---
+
 ![](https://img.shields.io/badge/-Mac-informational?style=flat&logo=apple&color=1f2430)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&color=1f2430)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visual-studio-code&color=1f2430)
@@ -35,4 +37,5 @@
 <a href="https://github.com/darlodev/mfl-gateway">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=ayu-mirage&repo=mfl-gateway" />
 </a>
+
 ---
