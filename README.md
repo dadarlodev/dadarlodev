@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/-Vue-informational?style=flat&logo=vue.js&color=1f2430)
 ![](https://img.shields.io/badge/-Svelte-informational?style=flat&logo=svelte&color=1f2430)
 ![](https://img.shields.io/badge/-Node-informational?style=flat&logo=node.js&color=1f2430)
-![](https://img.shields.io/badge/-Next-informational?style=flat&logo=next.js&color=1f2430)
 ![](https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&color=1f2430)
 ![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&color=1f2430)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&color=1f2430)
