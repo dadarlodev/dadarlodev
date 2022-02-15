@@ -23,19 +23,19 @@
 ---
 
 <a href="https://github.com/darlodev/darlodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=discord_old_blurple&layout=compact&hide=html,css&langs_count=8)](https://github.com/darlodev/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=react&layout=compact&hide=html,css&langs_count=8)](https://github.com/darlodev/github-readme-stats" />
 </a>
 <a href="https://github.com/darlodev/darlodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlodev&theme=discord_old_blurple&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlodev&theme=react&show_icons=true" />
 </a>
 <a href="https://github.com/darlodev/language-reference">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=discord_old_blurple&repo=language-reference" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=react&repo=language-reference" />
 </a>
 <a href="https://github.com/darlodev/flask-cutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=discord_old_blurple&repo=flask-cutter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=react&repo=flask-cutter" />
 </a>
 <a href="https://github.com/darlodev/mfl-gateway">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=discord_old_blurple&repo=mfl-gateway" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=react&repo=mfl-gateway" />
 </a>
 
 ---
