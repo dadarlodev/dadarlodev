@@ -23,7 +23,7 @@
 ---
 
 <a href="https://github.com/darlodev/darlodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=disocrd_old_blurple&layout=compact&hide=html,css&langs_count=8)](https://github.com/darlodev/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=discord_old_blurple&layout=compact&hide=html,css&langs_count=8)](https://github.com/darlodev/github-readme-stats" />
 </a>
 <a href="https://github.com/darlodev/darlodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlodev&theme=discord_old_blurple&show_icons=true" />
