@@ -3,7 +3,7 @@
 </a>
 
 ---
-
+<!-- 
 <a href="https://github.com/darlodev/language-reference">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlodev&theme=tokyonight&repo=language-reference" />
-</a>
+</a> -->
