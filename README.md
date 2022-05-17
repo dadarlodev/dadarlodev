@@ -1,8 +1,8 @@
 # Hello World!
 <div align="center">
-<a href="https://github.com/darlodev/darlodev">
+<!-- <a href="https://github.com/darlodev/darlodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&theme=react&layout=compact&hide=html,css&langs_count=8)](https://github.com/darlodev/github-readme-stats" />
-</a>
+</a> -->
 
 ---
   
