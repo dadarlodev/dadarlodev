@@ -2,7 +2,7 @@
 
 I'm Jordan, a software developer and technical skills coach from Manchester, UK. In regards to personal projects, I work mainly with Python and have a vast interest in automation, machine learning and cyber security.
 
-Professionally, I provide support and guidance to software development students and apprentices (mainly focussed on learning JavaScript and full-stack development).
+Professionally, I provide support and guidance to software development students and apprentices (mainly focussed on learning full-stack development with JavaScript).
 
 ---
 <div align="center">
