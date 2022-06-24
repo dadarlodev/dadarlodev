@@ -2,8 +2,6 @@
 
 My name's Jordan. I'm a software developer and technical skills coach from Manchester, UK. In regards to personal projects, I work mainly with Python and have a vast interest in automation, machine learning and cyber security.
 
-Professionally, I support and guide software development students and apprentices.
-
 ---
 <div align="center">
 
