@@ -1,7 +1,5 @@
 # Hello Friend.
 
-My name's Jordan. I'm a software developer and technical skills coach from Manchester, UK. I work mainly with Python and have a vast interest in automation, machine learning and cyber security.
-
 ---
 <div align="center">
 
