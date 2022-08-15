@@ -3,7 +3,7 @@
 ---
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&layout=compact&hide=html,css&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&layout=compact&hide=html,css&langs_count=6&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
   
