@@ -2,8 +2,9 @@
 
 **`Software Developer`**
 
-- I work predominantly with Java & JavaScript
-- I'm curently exploring Design Patterns
+- I work professionally with Java & JavaScript
+- I am currently exploring Software Design Patterns
+- I create repos for personal projects, collaborative projects and teaching/learning
 
 #
 
