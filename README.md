@@ -2,9 +2,8 @@
 
 **`Software Developer`**
 
-- I work predominantly within Back-End Development
-- I'm curently exploring C# and .Net
-- I used to work as a Modern Foreign Languages Teacher
+- I work predominantly with Java & JavaScript
+- I'm curently exploring Design Patterns
 
 #
 
