@@ -34,8 +34,8 @@
 
 ### 🔘 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&layout=compact&hide=html,css&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlodev&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&layout=compact&hide=html,css&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlodev&show_icons=true&theme=vue-dark)
 
 <!--  
 
