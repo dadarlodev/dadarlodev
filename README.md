@@ -1,4 +1,4 @@
-# 👾 Jordan Darlington
+# Jordan Darlington
 
 **`Software Developer`**
 
@@ -8,7 +8,7 @@
 
 #
 
-### 🔘 Languages & Tools
+### Languages & Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -32,10 +32,10 @@
 
 #
 
-### 🔘 Stats
+### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&layout=compact&hide=html,css&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlodev&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlodev&layout=compact&hide=html,css&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlodev&show_icons=true&theme=gotham)
 
 <!--  
 
